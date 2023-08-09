@@ -10,7 +10,7 @@ I'm a software engineer currently completing a coding bootcamp.  I love how codi
 - 🌱 I’m currently learning about how to incorporate animations and audio in Javascript
 - 💬 Ask me about what I love most about coding
 - 📫 How to reach me: dnunez.edu@gmail.com📧
-- 🌐 Socials: [(https://www.linkedin.com/in/daneiry-nunez-6268a7287/)]
+- 🌐 Socials: <a href="[(https://www.linkedin.com/in/daneiry-nunez-6268a7287/)]" target="_Linkedin">Linkin</a>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm an Ordained Minister for more than 10yrs and have officiated two weddings🤵🏼‍♀️💒
 
